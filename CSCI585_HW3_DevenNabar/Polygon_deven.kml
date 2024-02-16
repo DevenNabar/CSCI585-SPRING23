@@ -1,0 +1,170 @@
+<kml
+	xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<Style id="z1">
+			<IconStyle>
+				<Icon>
+					<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Home</name>
+			<styleUrl>#z1</styleUrl>
+			<Point>
+				<coordinates>
+				-118.28854,34.029556
+				</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>Viterbi</name>
+			<Placemark>
+				<name>Mork Family</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.2891706273806,34.02009513619483
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAL CSC</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.28916544105698,34.019470308007776
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+        <Folder>
+			<name>Marshall</name>
+			<Placemark>
+				<name>Bridge Hall</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.2855940,34.0186880
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hoffman Hall </name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.285423,34.018654
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Cinematics</name>
+			<Placemark>
+				<name>Steven S </name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.28627066697767,34.02349215469706
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Productions </name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.286332357785,34.023233824441306
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Annenberg</name>
+			<Placemark>
+				<name>Communications </name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.28664052724749,34.02218864037347
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wallis</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.2872074933825,34.021104586589
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Dornsife</name>
+			<Placemark>
+				<name>Physics</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.28594109054495,34.019402163134906
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Earth Sciences</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.28628654898905,34.01896252435212
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+            <name>Thornton</name>
+			<Placemark>
+				<name>Music Complex</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.285628,34.022594
+					</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hall of Music</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates>
+					-118.285367,34.022762
+					</coordinates>
+				</Point>
+			</Placemark>
+		</Folder> 
+        <Placemark> 
+        <Polygon> <outerBoundaryIs>  <LinearRing>  
+        <coordinates>
+        
+		-118.285423,34.018654,0
+		-118.285594,34.018688,0
+		-118.28916544105698,34.019470308007776,0
+		-118.2891706273806,34.02009513619483,0
+		-118.28854,34.02956,0
+		-118.285367,34.022762,0
+		-118.285423,34.018654,0
+    
+        </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+        
+        <Style> 
+        <PolyStyle>  
+        <color>#a00000ff</color>
+        <outline>0</outline> 
+        </PolyStyle> 
+        </Style>
+        </Placemark>
+
+    </Document>
+</kml>
